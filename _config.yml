@@ -17,5 +17,7 @@ url: "http://lilinuo2016.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
+disqus_sitename:  lilinuoblog
+
 # Build settings
 markdown: kramdown
